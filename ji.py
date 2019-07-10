@@ -1,2 +1,2 @@
-inp=input()
-print(inp+".")
+ps=input()
+print(ps+".")
